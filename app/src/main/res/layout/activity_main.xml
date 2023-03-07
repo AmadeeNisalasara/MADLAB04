@@ -59,10 +59,10 @@
         android:textSize="34sp" />
 
     <Button
-        android:id="@+id/BtnCansel"
+        android:id="@+id/BtnCancel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="CANSEL"
+        android:text="CANCEL"
         android:textSize="34sp" />
 
 </LinearLayout>
